@@ -1,4 +1,4 @@
-# Web Development Final Project - *Social-Posts*
+# Web Development Final Project - *History-Hub*
 
 Submitted by: **Rajashekar Vennavelli**
 
