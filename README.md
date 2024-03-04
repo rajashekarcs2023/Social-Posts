@@ -1,4 +1,4 @@
-# Web Development Final Project - *History-Hub*
+# Web Development Final Project - *Hobby-Hub*
 
 Submitted by: **Rajashekar Vennavelli**
 
